@@ -4,6 +4,7 @@ import { Playbutton } from "@/app/assets/icons";
 
 const Home1 = () => {
   return (
+    <section className="h-screen">
     <div className="flex relative">
       <div className="w-1/2">
         <div className="flex flex-col w-9/12 m-20 ml-36">
@@ -52,6 +53,7 @@ const Home1 = () => {
         </div>
       </div>
     </div>
+    </section>
   );
 };
 
