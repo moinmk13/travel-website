@@ -4,5 +4,28 @@ import plane from "./plane.png";
 import mice from "./mike.png";
 import rightStar from "./rightStar.png";
 import ractangle from "./ractangle.png";
+import spring from "./spring.png";
+import romeItalty from "./itli.png";
+import Uk from "./Uk.png";
+import yourap from "./yourap.png";
+import buty from "./buty.png";
+import tample from "./tample.png";
+import human from "./human.png";
 
-export { Decore, pasanger, plane, mice, rightStar, ractangle };
+
+
+export {
+  Decore,
+  pasanger,
+  plane,
+  mice,
+  rightStar,
+  ractangle,
+  spring,
+  romeItalty,
+  Uk,
+  yourap,
+  buty,
+  tample,
+  human,
+};
