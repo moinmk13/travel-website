@@ -11,8 +11,11 @@ import yourap from "./yourap.png";
 import buty from "./buty.png";
 import tample from "./tample.png";
 import human from "./human.png";
-
-
+import suscribeBanner from "./suscribeBanner.png";
+import leftCircel from "./leftCircel.png";
+import rightCircel from "./rightCircel.png";
+import sendIcon from "./sendIcon.png";
+import rightStars from "./rightStars.png";
 
 export {
   Decore,
@@ -28,4 +31,9 @@ export {
   buty,
   tample,
   human,
+  suscribeBanner,
+  leftCircel,
+  rightCircel,
+  sendIcon,
+  rightStars,
 };

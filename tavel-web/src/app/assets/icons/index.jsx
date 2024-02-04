@@ -13,8 +13,18 @@ import send from "./send.svg";
 import building from "./building.svg";
 import hart from "./hart.svg";
 import range from "./range.svg";
+import axon from "./axon.svg";
+import jetstar from "./jetstar.svg";
+import expedia from "./expedia.svg";
+import quantas from "./quantas.svg";
+import italia from "./italia.svg";
+import email from "./email.svg";
+import facebook from "./facebook.svg";
+import twitter from "./twitter.svg";
 
-
+import instagram from "./instagram.svg";
+import GooglePlay from "./GooglePlay.svg";
+import AppStore from "./AppStore.svg";
 
 
 export {
@@ -33,4 +43,15 @@ export {
   building,
   hart,
   range,
+  axon,
+  jetstar,
+  expedia,
+  quantas,
+  italia,
+  email,
+  facebook,
+  twitter,
+  instagram,
+  GooglePlay,
+  AppStore
 };
